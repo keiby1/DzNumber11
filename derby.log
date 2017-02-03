@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Fri Feb 03 16:28:08 SAMT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-015a-03f2-2d34-000005ade7a8 
+on database directory C:\Users\lushi\IdeaProjects\hibernatetest4\mydb.db  with class loader sun.misc.Launcher$AppClassLoader@5cad8086 
+Loaded from file:/C:/Users/lushi/.m2/repository/org/apache/derby/derby/10.8.2.2/derby-10.8.2.2.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=C:\Users\lushi\IdeaProjects\hibernatetest4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
